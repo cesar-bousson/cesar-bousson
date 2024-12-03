@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Texte alternatif](https://github.com/user-attachments/assets/807f64e4-df7e-4d7f-a315-4d288b4bcf2e)
 
 
