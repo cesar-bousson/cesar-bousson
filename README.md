@@ -69,5 +69,5 @@ LinkdIn:
 
 <h1 align="center"> PORTOFOLIO </h1>
 
-<p align="center"> https://cesar-bousson.github.io/PORTFOLIO <p>
+<p align="center"> https://cesar-bousson.github.io/PORTFLIO <p>
 
