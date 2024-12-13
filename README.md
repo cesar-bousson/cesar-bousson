@@ -7,10 +7,8 @@
  
 <p align="justify"> Bienvenue sur mon Github, pour me présenter brièvement, je m'appelle César et j'ai actuellement pour
 expérience en informatique seulement celle que je suis en train d'apprendre à l'école "La Plateforme",
-situé sur Marseille. J'y prépare actuellement un BACHELOR IT, de niveau bac +3, afin de devenir dévellopeur
-fullstack en web ou logiciel.Je suis actuellement en première année, et prépare ma recherche d'alternance pour 
-l'année 2024/2025. J'ai toujours eu un ordinateur dans les mains ceci -dit, étant par le passé compositeur 
-musical MAO(Musique Assisté par Ordinateur) durant 12 ans.
+situé sur Marseille. J'y prépare actuellement un BACHELOR IT, de niveau bac +3, J'ai choisis le cursus Cybersecurité.Je suis actuellement en première année, et prépare ma recherche d'alternance pour 
+l'année 2024/2025.
 </p>
 <p align="justify""> 
  J'ai pu acquérir certaines valeurs grâces a mes métiers précedants comme la rigueur, l'esprit d'equipe,
