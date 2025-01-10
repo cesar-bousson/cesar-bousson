@@ -7,13 +7,13 @@
  
 <p align="justify"> Bienvenue sur mon Github, pour me présenter brièvement, je m'appelle César et j'ai actuellement pour
 expérience en informatique seulement celle que je suis en train d'apprendre à l'école "La Plateforme",
-situé sur Marseille. J'y prépare actuellement un BACHELOR IT, de niveau bac +3, J'ai choisis le cursus Cybersecurité.Je suis actuellement en première année, et prépare ma recherche d'alternance pour 
-l'année 2024/2025.
+situé sur Marseille. J'y prépare actuellement un BACHELOR IT, de niveau bac +3, J'ai choisis le cursus développeur logiciel. 
+Je suis actuellement en première année, et prépare ma recherche d'alternance pour septembre 2025.
 </p>
 <p align="justify""> 
- J'ai pu acquérir certaines valeurs grâces a mes métiers précedants comme la rigueur, l'esprit d'equipe,
+ J'ai pu acquérir certaines valeurs et compétences grâces à mes métiers précédents comme la rigueur, l'esprit d'equipe,
  la résilience, le contact avec le client, le sens du commerce, l'organisation, le gôut du challenge, le leadership, 
- une bonne présentation de soi en entreprise et avec les clients, et bien d'autres.
+ une bonne présentation de soi en entreprise et avec les clients, avec des compétences administratives, commerciales, et d'exécution des tâches.
  Pour ce qui est des compétences professionnelles en INFORMATIQUE, ce que je peux faire aujourd'hui :
  </p> 
 
