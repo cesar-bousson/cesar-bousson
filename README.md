@@ -22,8 +22,11 @@ Je suis actuellement en première année, et prépare ma recherche d'alternance 
  - Utilisation de VS studio code                                               
  - Utilisation d'un terminal de commande                                         
  - Utilisation des langages HTML / CSS / PYTHON
+ - Création d'interfaces Pygame
  - Utilisation de VM Workstation
- - Utilisation de Trello, Canva, Capcut, Photoshop                                                                                
+ - Utilisation de Trello, Canva, Capcut, Photoshop, Figma
+
+   A venir au cours de l'année 2025 : JAVA - C++ - UML - SQL & more...                                                                             
 ------------------------------------------------------------------
 
 ## Liste de Projets
@@ -56,6 +59,11 @@ Je suis actuellement en première année, et prépare ma recherche d'alternance 
 - **Technologies** : HTML / CSS / Javascript
 - **Lien** : [Voir le projet Ghithub](https://github.com/RayanneSadek/fansite)
 - **Lien** : [Voir le ghit de ma page Paul K](https://github.com/cesar-bousson/fansitecesar.ghit)
+
+    ### 📂 Projet 6 : Interface Pygame
+- **PENDU** : Projet de groupe dans lequel chacun devait réaliser un jeu du pendu avec pygame.
+- **Technologies** : Python, pygame
+- **Lien** : [Voir le projet Ghithub](https://github.com/cesar-bousson/The-Hangman_with-pygame)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Contact: 
