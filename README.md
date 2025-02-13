@@ -77,7 +77,7 @@ LinkdIn:
 <br>
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/cesar-bousson-58333533a/)
 
-<h1 align="center"> PORTFOLIO </h1>
+<h1 align="center"> PORTFOLIO (en maintenance) </h1>
 
 <p align="center"> https://cesar-bousson.github.io/PORTFOLIO/<p>
 
