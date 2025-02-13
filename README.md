@@ -21,15 +21,19 @@ Je suis actuellement en première année, et prépare ma recherche d'alternance 
  - Utilisation de Github et Gitbash                                            
  - Utilisation de VS studio code                                               
  - Utilisation d'un terminal de commande                                         
- - Utilisation des langages HTML / CSS / PYTHON
- - Création d'interfaces Pygame
+ - Utilisation des langages HTML / CSS / PYTHON / JAVA / SQL / C++ / JS
+   
+ - methodes UML
+   
+ - Création d'interface Pygame
+   
  - Utilisation de VM Workstation
+   
  - Utilisation de Trello, Canva, Capcut, Photoshop, Figma
-
-   A venir au cours de l'année 2025 : JAVA - C++ - UML - SQL & more...                                                                             
+                                                                              
 ------------------------------------------------------------------
 
-## Liste de Projets
+## Liste de Projets (en maintenance ) :
 
 ### 📂 Projet 1 : Acquisition GITHUB
 - **Exercices Github** : Projet école.
